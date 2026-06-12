@@ -1,0 +1,16 @@
+filename = 'shw-forge-1.0.0.jar'
+name = 'Set Home & Waypoints'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4c65c31f9b7599d22a0fe1a26c4e6658321693a4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 4684859
+project-id = 374386

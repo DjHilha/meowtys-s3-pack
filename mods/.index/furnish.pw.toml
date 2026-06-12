@@ -1,0 +1,16 @@
+filename = 'furnish-1.18-0.6-fix1.jar'
+name = 'Furnish'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = 'c8ebc963a7181dd3d4a64cc37a8d668cb3f9e710'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3893519
+project-id = 547069

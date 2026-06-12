@@ -1,0 +1,16 @@
+filename = 'quickteleports-1.18.2-1.2.0-forge.jar'
+name = 'QuickTeleports'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '4e7b411c02e87ff47dab67abc052ae50f01853a1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3749807
+project-id = 315037

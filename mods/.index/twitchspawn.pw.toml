@@ -1,0 +1,16 @@
+filename = 'twitchspawn_1.18.2-1.9.3.jar'
+name = 'TwitchSpawn'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.18', '1.18.1', '1.18.2' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '576eb0d2490599d532d8688c971a5d9a9aeb8c4f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 3772664
+project-id = 273382
