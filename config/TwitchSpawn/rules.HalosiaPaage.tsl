@@ -550,3 +550,12 @@ Execute
  With title is %Mod Box%
  
 ################################################################
+
+Either
+ Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_3%
+ OR
+  Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_4%
+ ON Twitch Channel Point Reward
+ With title is %Ancient Relic%
+
+################################################################

@@ -66,11 +66,11 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/TwitchSpawn/client_credentials.json"
-hash = "b43832b06a5457fe74b437f827f51f170702796a5dcdaa7ddb7cd96ecb37b6d9"
+hash = "f1e6517098e141d16f747d120101b05cea74d2864ac554826dd570571b423f7a"
 
 [[files]]
 file = "config/TwitchSpawn/credentials.toml"
-hash = "66b9f22295582005f4d895925cdfa07055583fd03c6779c47b0ecd06cbbd6092"
+hash = "c2cb0577dbb20243cccb34dcdd0533f8b7df2b1cfb7aad2e0e145e45a983fb99"
 
 [[files]]
 file = "config/TwitchSpawn/messages.subtitle.json"
@@ -90,15 +90,15 @@ hash = "f821355c48a788186c7fb4371fe573ddf0644db698c18b85394a0286115f2783"
 
 [[files]]
 file = "config/TwitchSpawn/rules.HalosiaPaage.tsl"
-hash = "f821355c48a788186c7fb4371fe573ddf0644db698c18b85394a0286115f2783"
+hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
 
 [[files]]
 file = "config/TwitchSpawn/rules.Hilha.tsl"
-hash = "1270f68d67b0bb7995659a1e3f32dfc8f8e681cb3d55a7c9271eae39c9081adf"
+hash = "79642570af504d19446f6061e9d895d1d1f7aba727d91f775f04edea832705e3"
 
 [[files]]
 file = "config/TwitchSpawn/rules.Rhaw_G.tsl"
-hash = "f821355c48a788186c7fb4371fe573ddf0644db698c18b85394a0286115f2783"
+hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
 
 [[files]]
 file = "config/TwitchSpawn/rules.default.tsl"
@@ -15645,8 +15645,8 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companioncodex-1.0.3.jar"
-hash = "4e774f1822687de77761533e50701b575fd72fae6b88e54eb48634600bf4c98d"
+file = "mods/companioncodex-1.0.4.jar"
+hash = "edf46c0257f30fe89d916019b4573788d408a00c2727daa91e49967e37e703b8"
 
 [[files]]
 file = "mods/cookingforblockheads-forge-1.18.2-12.2.0.jar"

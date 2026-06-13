@@ -2,11 +2,10 @@ Both Instantly
  Execute 
  %/give ${streamer} the_vault:companion_egg%
  And
- Execute
- %/ttm prepare_link ${actor} ${message}%
+ Execute %/ttm prepare_link ${actor} ${message}%
  On Twitch Channel Point Reward 
  With title is %Get your Companion%
-
+ 
 ################################################################
 
 Execute 
@@ -467,10 +466,6 @@ Either
  Execute %/execute as @p run the_vault give companion_relic the_vault:bonus_coins%
   OR
  Execute %/execute as @p run the_vault give companion_relic the_vault:bonus_wooden%
-   OR
- Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_3%
-   OR
- Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_4%
  On Twitch Channel Point Reward 
  With title is %Relic%
  
@@ -568,3 +563,11 @@ Execute
  
 ################################################################
 
+Either
+ Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_3%
+ OR
+  Execute %/execute as @p run the_vault give companion_relic the_vault:ancient_4%
+ ON Twitch Channel Point Reward
+ With title is %Ancient Relic%
+
+################################################################
