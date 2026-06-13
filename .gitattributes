@@ -1,0 +1,4 @@
+*.toml text eol=crlf
+*.ini text eol=crlf
+*.properties text eol=crlf
+*.json text eol=crlf
