@@ -16121,6 +16121,10 @@ file = "packmenu/resources/packmenu.cfg"
 hash = "21864a61ddd04b3b361074da80f204dfe0252dc3f04aab9fe5ccbd6ca4a4f95a"
 
 [[files]]
+file = "packwizignore"
+hash = "20a7ae0c288810be805c58d20711407390de064747af029383b6eb8ba93c190c"
+
+[[files]]
 file = "patchouli_books/the_vault_main_guide/book.json"
 hash = "7c94a6267c632d1b8b26786738983267e3518ebc93df1238cfc4ed0c7b3b4797"
 
