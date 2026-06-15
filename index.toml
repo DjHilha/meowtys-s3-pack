@@ -13681,6 +13681,10 @@ file = "config/twigs-common.toml"
 hash = "5c4361ed317500edbe2951cf571d5f2b0528f010b9a2a47f684c4e7f49523202"
 
 [[files]]
+file = "config/twitchtaskmod/backend.json"
+hash = "c7f307c7c5cb638de83be0793cdf6a0c6418eee99a149e99428947555c37ee22"
+
+[[files]]
 file = "config/twitchtaskmod/pending_links.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 
@@ -13691,6 +13695,14 @@ hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
 [[files]]
 file = "config/twitchtaskmod/pending_xp.json"
 hash = "44136fa355b3678a1146ad16f7e8649e94fb4fc21fe77e8310c060f61caaff8a"
+
+[[files]]
+file = "config/twitchtaskmod/task_status_public.json"
+hash = "6daf53001c6a879a42dba8d61706a1bfc8c1d9652590ddfbf8398270768e6e77"
+
+[[files]]
+file = "config/twitchtaskmod/tasks.json"
+hash = "ef10ea4bde798dc7b923a69fec91c5c2d710f0c82f62f5cb80cba5b31b5b23cc"
 
 [[files]]
 file = "config/twitchtaskmod/twitch_chat.json"
@@ -15998,7 +16010,7 @@ hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
 file = "mods/twitchtaskmod-1.0.0.jar"
-hash = "9280863df68810d797ef4fa77c49315157a7a8cd074f92c497b697ce9f5fe34a"
+hash = "417a209c75a9a02fcbbd46d30acf3f854c1e70cdd4f9850f60d5d591456c98b3"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.14.0.jar"
