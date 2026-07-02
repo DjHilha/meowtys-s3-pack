@@ -1198,7 +1198,7 @@ hash = "9593498b0a521562e5b69bedec64871ca4fdc9220ade22cef0eac013535baffa"
 
 [[files]]
 file = "config/the_vault/companion_relics.json"
-hash = "5dbf1cc02d1cb0d98c88f86ad12ee22e6a8d9415372bfb34364011f9d96f7d85"
+hash = "ac901de7b8fe364c876a7034eefbba085c8fef9ca3a9b31fda24bc84b20d0a11"
 
 [[files]]
 file = "config/the_vault/companion_terrarium.json"
@@ -16014,7 +16014,7 @@ hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
 file = "mods/twitchtaskmod-1.0.0.jar"
-hash = "721625cf45df942ae9f131c765b8c5f16448395b2a51ba0e467f9b2cd1749a23"
+hash = "b0acf1eb8aa3057f23ecb7bbdc600471f71caad7d45a8ccefc22caccdbc8bca2"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.14.0.jar"
