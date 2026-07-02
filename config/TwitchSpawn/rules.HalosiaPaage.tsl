@@ -559,3 +559,21 @@ Either
  With title is %Ancient Relic%
 
 ################################################################
+
+Execute %/execute as @s run mm dirt %actor% 25% 
+ On Twitch Channel Point Reward
+ With title is %Small Dirt Pouch%
+
+################################################################
+
+Execute %/execute as @s run mm dirt %actor% 125% 
+ On Twitch Channel Point Reward
+ With title is %Big Dirt Pouch%
+ 
+################################################################
+
+Execute %/execute as @s run mm dirt %actor% 750% 
+ On Twitch Channel Point Reward
+ With title is %Buried Treasure%
+ 
+################################################################

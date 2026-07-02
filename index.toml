@@ -90,11 +90,11 @@ hash = "f821355c48a788186c7fb4371fe573ddf0644db698c18b85394a0286115f2783"
 
 [[files]]
 file = "config/TwitchSpawn/rules.HalosiaPaage.tsl"
-hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
+hash = "c663718ffbf15d8ee199a87aa5ab218e00f7a4f340d1b4bb5f7d460506b422e7"
 
 [[files]]
 file = "config/TwitchSpawn/rules.Hilha.tsl"
-hash = "79642570af504d19446f6061e9d895d1d1f7aba727d91f775f04edea832705e3"
+hash = "c6be164d01055bcad7f27721a4272a630890e5c22376eafa53e6d71ecb6b2ad3"
 
 [[files]]
 file = "config/TwitchSpawn/rules.Rhaw_G.tsl"
@@ -15529,6 +15529,10 @@ file = "mods/PuzzlesLib-v3.5.10-1.18.2-Forge.jar"
 hash = "67fc0b05ca0fa755dda681c20aaf29e55b8845841451efc6c40631b91b95d9d2"
 
 [[files]]
+file = "mods/QOL Hunters-0.42.12.jar"
+hash = "704d6e1026b9b0e239e72286c543da5b70fdb0e0870124974762da4e7cf60368"
+
+[[files]]
 file = "mods/Quark-3.2-358.jar"
 hash = "046c5cbc31259eb175d010bac36aa82cf6678254caca79cd65022f5b28e031cd"
 
@@ -16010,7 +16014,7 @@ hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
 file = "mods/twitchtaskmod-1.0.0.jar"
-hash = "3408d4a83cc4defa193ce2fa1388ae61d82bc08ea61dbddd2c37a85fb4640aad"
+hash = "721625cf45df942ae9f131c765b8c5f16448395b2a51ba0e467f9b2cd1749a23"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.14.0.jar"
