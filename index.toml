@@ -15665,6 +15665,10 @@ file = "mods/companioncodex-1.0.4.jar"
 hash = "edf46c0257f30fe89d916019b4573788d408a00c2727daa91e49967e37e703b8"
 
 [[files]]
+file = "mods/companioncodex-1.0.5.jar"
+hash = "e4c4e729640ea57bb4042ae0b5774a1cb2054be2f270468a0d0331b5f0d3a480"
+
+[[files]]
 file = "mods/cookingforblockheads-forge-1.18.2-12.2.0.jar"
 hash = "4201ea207da01c2d4593f6df0f0ff7a4c538fc5e92fd0767ff37bfde6ee2e231"
 
