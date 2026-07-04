@@ -418,7 +418,7 @@ Either
  With title is %Reroll Modifier%
  
 ################################################################ 
-#  /twitchspawn simulate {event:"Twitch action", title:"channel point reward title"} @p  #
+#  /twitchspawn simulate {event:"Twitch action", title:"channel point reward title"} @p# 
 ################################################################
 
 
