@@ -1198,7 +1198,7 @@ hash = "9593498b0a521562e5b69bedec64871ca4fdc9220ade22cef0eac013535baffa"
 
 [[files]]
 file = "config/the_vault/companion_relics.json"
-hash = "f23d72d457457076805d51146c68425dee18cdd984345c31d3ab2e67a5eb12be"
+hash = "8d4b433f100cd6696484ccf101ebd879c6747f0cd23ac146d983be11bc668952"
 
 [[files]]
 file = "config/the_vault/companion_terrarium.json"
@@ -1206,7 +1206,7 @@ hash = "7485bee390f1629150643395e415fc6db9d5ada57404fc985481ccb0f4cf0a1d"
 
 [[files]]
 file = "config/the_vault/companions.json"
-hash = "be9548c051defd4261c481516953dc3b90b5b08205223067e2ac18936a27c2a7"
+hash = "a722128091963c09209a8ad437727c55602dcf137cd8735ab79e3d130abf786c"
 
 [[files]]
 file = "config/the_vault/consumables.json"
