@@ -42,7 +42,7 @@ hash = "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338"
 
 [[files]]
 file = "config/Mekanism/generators.toml"
-hash = "f035337a2a68b1314674bb0d650eb1939f2cd2ffa34fb7e3f9e39a288386c304"
+hash = "19156c03d1968ef58673c830f14f1bd76eaf0451aaa55199d26562b2f7788f8c"
 
 [[files]]
 file = "config/Mekanism/machine-storage.toml"
