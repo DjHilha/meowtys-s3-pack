@@ -42,7 +42,7 @@ hash = "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338"
 
 [[files]]
 file = "config/Mekanism/generators.toml"
-hash = "19156c03d1968ef58673c830f14f1bd76eaf0451aaa55199d26562b2f7788f8c"
+hash = "45747d3295101b5c953e1de76a82c28fccb10a52f688d9552c875e3a6f1afb70"
 
 [[files]]
 file = "config/Mekanism/machine-storage.toml"
@@ -1198,7 +1198,7 @@ hash = "9593498b0a521562e5b69bedec64871ca4fdc9220ade22cef0eac013535baffa"
 
 [[files]]
 file = "config/the_vault/companion_relics.json"
-hash = "8d4b433f100cd6696484ccf101ebd879c6747f0cd23ac146d983be11bc668952"
+hash = "433321467314e8e61956d99ee1469b27ca9ff1433b97c948c8810130f928b19a"
 
 [[files]]
 file = "config/the_vault/companion_terrarium.json"
