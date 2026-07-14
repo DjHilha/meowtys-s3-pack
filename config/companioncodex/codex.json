@@ -3,16 +3,16 @@
     "base_party_size": 2,
     "level_tiers": [
       {
-        "min_level": 65,
-        "size": 10
+        "min_level":0,
+        "size": 20
       },
       {
         "min_level": 80,
-        "size": 10
+        "size": 20
       },
       {
         "min_level": 90,
-        "size": 10
+        "size": 20
       }
     ],
     "challenge_stacks_per_extra_companion": 2,
