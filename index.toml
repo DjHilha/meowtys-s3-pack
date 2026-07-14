@@ -1198,7 +1198,7 @@ hash = "9593498b0a521562e5b69bedec64871ca4fdc9220ade22cef0eac013535baffa"
 
 [[files]]
 file = "config/the_vault/companion_relics.json"
-hash = "8938e9203985b4b69aae0e73523d15113b31f71cd721435f1f888ee3a03658e5"
+hash = "89111edc23d782e844b39ce3e3483e978a76f0e3f9d2fab9daee0dac8c758f98"
 
 [[files]]
 file = "config/the_vault/companion_terrarium.json"
@@ -15665,8 +15665,8 @@ file = "mods/companioncodex-1.0.4.jar"
 hash = "edf46c0257f30fe89d916019b4573788d408a00c2727daa91e49967e37e703b8"
 
 [[files]]
-file = "mods/companioncodex-1.0.5.jar"
-hash = "e4c4e729640ea57bb4042ae0b5774a1cb2054be2f270468a0d0331b5f0d3a480"
+file = "mods/companioncodex-1.0.6.jar"
+hash = "e0d430e6746931514fbfc4b46ca46e7fc412978da57270f28a7e1c498f941c6c"
 
 [[files]]
 file = "mods/cookingforblockheads-forge-1.18.2-12.2.0.jar"
