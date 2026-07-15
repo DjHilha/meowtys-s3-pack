@@ -222,7 +222,7 @@ hash = "e254fd10199336dd0e0c1c3f20a8daa1fdf9ca026b02dd9c0064ae1f058b9393"
 
 [[files]]
 file = "config/companioncodex/codex.json"
-hash = "87589684e3529b59934fd173b77e4d3da733f93efd55e260a6159c2895371a3a"
+hash = "e10d18c52d8a07a4050282b1b8dbdd9df1df6544c972f368f654678c47282766"
 
 [[files]]
 file = "config/compressiumblocks.json"
@@ -16018,7 +16018,7 @@ hash = "a0112ea8a7716b62ad461a5ee18bd44f17bede46bb7cf239daf1ddec3e93487d"
 
 [[files]]
 file = "mods/twitchtaskmod-1.0.0.jar"
-hash = "83512d5bb397cf77f618b99cdb172d50a253ee7c205656ecb8321030b25ddea0"
+hash = "6cbbf4e03f039fc3ece28b4e30590337ecaf80027e6016fd8c1e8b9aa53069ff"
 
 [[files]]
 file = "mods/vault_curios_enhancements-1.14.0.jar"
