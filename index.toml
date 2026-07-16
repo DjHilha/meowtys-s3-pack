@@ -15621,6 +15621,10 @@ file = "mods/bellsandwhistles-v0.4.1-mc1.18.2.jar"
 hash = "3793682baa419a90a8b3a83d194af8cefd07e7ce975fcbf3db592c3a1ac68d87"
 
 [[files]]
+file = "mods/blocklinks-1.18.2-0.2.0.jar"
+hash = "9390576455fcbc5dbb73e8b38cda32374f72ab898519d1812ff77fc029139d92"
+
+[[files]]
 file = "mods/bonsaitrees3-3.2.1.jar"
 hash = "67661fd4a459c9274fd3d24a1cba896743e5e754d68953904d058a65ac0572ae"
 
@@ -15705,6 +15709,10 @@ file = "mods/createcafe-1.10.5-1.18.2.jar"
 hash = "0888225b3361ea75b924ee7841a01ef8c8f2d3bfe91f9046c1c365c52d487b71"
 
 [[files]]
+file = "mods/creeperpower-1.18.2-0.2.0.jar"
+hash = "7292e01ab654fb06ae78c34b9dab24c8216d06f5b4eef8e22affdb6397122375"
+
+[[files]]
 file = "mods/cristellib-forge-1.0.0.jar"
 hash = "c879f4f503ec120ba8a5a3c8dcff340e1288caf7ccf08d7c4077497af4089623"
 
@@ -15773,8 +15781,16 @@ file = "mods/furnish-1.18-0.6-fix1.jar"
 hash = "5d6cfab0fe84154e2ef43acded4a4ae7da1ca62e65446e03a346c3268170f87e"
 
 [[files]]
+file = "mods/gateways-1.18.2-0.1.0.jar"
+hash = "8bd6e8927729f897fbd066c5fd0c0e4500dceaa20197615329aff07eff478150"
+
+[[files]]
 file = "mods/geckolib-forge-1.18-3.0.57.jar"
 hash = "b6d0954f7b777b43e72f202116c8ccbb1e37757a1142759303ab636a9077b8ba"
+
+[[files]]
+file = "mods/godrenamer-4.0.0.jar"
+hash = "162389193351259cc45f090b65a731bc5440e8c9460087ba028963c537a4c61d"
 
 [[files]]
 file = "mods/industrial-foregoing-1.18.2-3.3.1.7-11.jar"
