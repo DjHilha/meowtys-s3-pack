@@ -13550,7 +13550,7 @@ hash = "5d17dee8ae4769e3bbcfa2c6967447200a45bdcc5a91bd1f7737eb9f73f913c5"
 
 [[files]]
 file = "config/the_vault/vault_rune_boss.json"
-hash = "7e1646f22a7580af689ed22c6b521e3bcea43a5e4b947cbaf548c33e484c1f4f"
+hash = "43a7f40e0fdfc8745bf2d1116254d2566c89732116201aa7894e361603471673"
 
 [[files]]
 file = "config/the_vault/vault_stats.json"
