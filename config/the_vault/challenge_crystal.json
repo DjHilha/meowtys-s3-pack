@@ -179,6 +179,12 @@
         },
         "required_multiplier_amount": 100
       },
+      "layout": {
+        "type": "vault_royale",
+        "radius": 10,
+        "tunnel_span": 1,
+        "boss_room_pool": "the_vault:vault/rooms/special/boss"
+      },
       "time": {
         "type": "value",
         "roll": {
@@ -193,6 +199,10 @@
           {
             "modifier": "the_vault:shortened",
             "count": 10
+          },
+          {
+            "modifier": "the_vault:royale",
+            "count": 1
           },
           {
             "modifier": "the_vault:no_companion",

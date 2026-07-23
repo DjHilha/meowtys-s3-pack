@@ -34,10 +34,10 @@
       "group": "Power",
       "headerColor": -3790808,
       "headerTextColor": -1,
-      "x": 370,
+      "x": 180,
       "y": -25,
       "boxWidth": 170,
-      "boxHeight": 105,
+      "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/power"
     },
     "QoL": {
@@ -55,7 +55,7 @@
       "headerColor": -10603087,
       "headerTextColor": -1,
       "x": 180,
-      "y": 95,
+      "y": 135,
       "boxWidth": 170,
       "boxHeight": 145,
       "icon": "the_vault:gui/research_groups/farming"
@@ -64,7 +64,7 @@
       "group": "BigMods",
       "headerColor": -13070788,
       "headerTextColor": -1,
-      "x": 180,
+      "x": 370,
       "y": -25,
       "boxWidth": 170,
       "boxHeight": 105,

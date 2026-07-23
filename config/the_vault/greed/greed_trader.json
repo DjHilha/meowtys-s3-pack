@@ -1148,11 +1148,6 @@
         "pool": "the_vault:vault/rooms/challenge/memory",
         "weight": 10,
         "model": 23
-      },
-      {
-        "pool": "the_vault:vault/rooms/challenge/horderush",
-        "weight": 10,
-        "model": 0
       }
     ],
     "OMEGA": [
@@ -1199,7 +1194,7 @@
       {
         "pool": "the_vault:vault/rooms/omega/warehouse",
         "weight": 2,
-        "model": 0
+        "model": 24
       }
     ]
   },

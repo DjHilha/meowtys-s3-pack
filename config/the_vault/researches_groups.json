@@ -66,13 +66,14 @@
         "Flux Networks",
         "Powah",
         "Mekanism Generators",
+        "Creeper Power",
         "Thermal Dynamos",
         "Iron Generators",
         "Botania Flux Field"
       ],
       "globalCostIncrease": 0.0,
       "groupCostIncrease": {
-        "Power": 6.0
+        "Power": 2.4
       }
     },
     "QoL": {

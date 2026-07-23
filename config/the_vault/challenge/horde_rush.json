@@ -1,109 +1,129 @@
 {
-    "pools": {
-        "one": [
-            {
-                "value": {
-                    "config": {
-                        "id": "the_vault:example",
-                        "cost": {
-                            "min": 10,
-                            "max": 20,
-                            "type": "uniform"
-                        },
-                        "stack": {
-                            "id": "the_vault:vault_diamond",
-                            "count": 1
-                        }
-                    },
-                    "type": "item"
-                },
-                "weight": 1.0
-            }
-        ],
-        "two": [
-            {
-                "value": {
-                    "config": {
-                        "id": "the_vault:example",
-                        "cost": {
-                            "min": 10,
-                            "max": 20,
-                            "type": "uniform"
-                        },
-                        "stack": {
-                            "id": "the_vault:vault_diamond",
-                            "count": 1
-                        }
-                    },
-                    "type": "item"
-                },
-                "weight": 1.0
-            }
-        ],
-        "three": [
-            {
-                "value": {
-                    "config": {
-                        "id": "the_vault:example",
-                        "cost": {
-                            "min": 10,
-                            "max": 20,
-                            "type": "uniform"
-                        },
-                        "stack": {
-                            "id": "the_vault:vault_diamond",
-                            "count": 1
-                        }
-                    },
-                    "type": "item"
-                },
-                "weight": 1.0
-            }
-        ],
-        "four": [
-            {
-                "value": {
-                    "config": {
-                        "id": "the_vault:example",
-                        "cost": {
-                            "min": 10,
-                            "max": 20,
-                            "type": "uniform"
-                        },
-                        "stack": {
-                            "id": "the_vault:vault_diamond",
-                            "count": 1
-                        }
-                    },
-                    "type": "item"
-                },
-                "weight": 1.0
-            }
-        ]
-    },
-    "imposterTextures": [
-        {
-            "value": {
-                "entityId": "minecraft:zombie",
-                "textures": [
-                    {
-                        "value": "the_vault:textures/entity/tier2/zombie.png",
-                        "weight": 1.0
-                    }
-                ]
-            },
-            "weight": 1.0
-        }
+  "pools": {
+    "one": [
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:vault_diamond_reward",
+            "cost": { "min": 10, "max": 20, "type": "uniform" },
+            "stack": { "id": "the_vault:vault_diamond", "count": 8 }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      },
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:vault_gold_reward",
+            "cost": { "min": 10, "max": 35, "type": "uniform" },
+            "stack": { "id": "the_vault:vault_gold", "count": 25 }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      }
     ],
-    "imposterShardCount": {
-        "min": 1,
-        "max": 5,
-        "type": "uniform"
-    },
-    "incorrectNegativeShardLoss": {
-        "min": 1,
-        "max": 3,
-        "type": "uniform"
-    },
-    "durationTicks": 2400
+    "two": [
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:knowledge_shard_reward",
+            "cost": { "min": 20, "max": 50, "type": "uniform" },
+            "stack": { "id": "the_vault:knowledge_shard", "count": 8 }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      },
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:blank_key_reward",
+            "cost": { "min": 75, "max": 200, "type": "uniform" },
+            "stack": { "id": "the_vault:blank_key", "count": 1 }
+          },
+          "type": "item"
+        },
+        "weight": 0.5
+      }
+    ],
+    "three": [
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:mod_box_reward",
+            "cost": { "min": 75, "max": 175, "type": "uniform" },
+            "stack": { "id": "the_vault:mod_box", "count": 4 }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      },
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:empowered_chaotic_focus_reward",
+            "cost": { "min": 150, "max": 300, "type": "uniform" },
+            "stack": { "id": "the_vault:empowered_chaotic_focus", "count": 2 }
+          },
+          "type": "item"
+        },
+        "weight": 0.5
+      },
+      {
+        "value": {
+          "config": {
+            "id": "minecraft:dirt_reward",
+            "cost": { "min": 25, "max": 100, "type": "uniform" },
+            "stack": { "id": "minecraft:dirt", "count": 50 }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      }
+    ],
+    "four": [
+      {
+        "value": {
+          "config": {
+            "id": "the_vault:horderush_inscription",
+            "cost": { "min": 20, "max": 60, "type": "uniform" },
+            "stack": {
+              "id": "the_vault:inscription",
+              "nbt": "{data:{entries:[{pool:\"the_vault:vault/rooms/challenge/horderush\",count:1,color:15769088}],model:24,size:10,isSuper:0b}}",
+              "count": 1
+            }
+          },
+          "type": "item"
+        },
+        "weight": 1.0
+      }
+    ]
+  },
+  "imposterTextures": [
+    {
+      "value": {
+        "entityId": "minecraft:zombie",
+        "textures": [
+          {
+            "value": "the_vault:textures/entity/tier2/zombie.png",
+            "weight": 1.0
+          }
+        ]
+      },
+      "weight": 1.0
+    }
+  ],
+  "imposterShardCount": {
+    "min": 10,
+    "max": 25,
+    "type": "uniform"
+  },
+  "incorrectNegativeShardLoss": {
+    "min": 10,
+    "max": 15,
+    "type": "uniform"
+  },
+  "durationTicks": 2400
 }

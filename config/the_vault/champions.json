@@ -36,7 +36,8 @@
     "minecraft:vex": -10.0,
     "minecraft:ravager": -10.0,
     "@the_vault:greed_assassin": -10.0,
-    "the_vault:billy": -10.0
+    "the_vault:billy": -10.0,
+    "the_vault:the_vessel": -10.0
   },
   "defaultAttributeOverrides": [
     {

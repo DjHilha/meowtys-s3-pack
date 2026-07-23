@@ -31,6 +31,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {
@@ -319,6 +325,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {
@@ -1739,6 +1751,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {
@@ -3642,6 +3660,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {
@@ -6163,6 +6187,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {
@@ -8834,6 +8864,12 @@
             "items": [
               {
                 "item": "minecraft:dirt"
+              },
+              {
+                "item": "regions_unexplored:forest_dirt"
+              },
+              {
+                "item": "regions_unexplored:plains_dirt"
               }
             ],
             "amount": {

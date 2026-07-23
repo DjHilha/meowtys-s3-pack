@@ -7,8 +7,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -29,8 +29,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -51,8 +51,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -73,8 +73,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -95,8 +95,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -117,8 +117,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -139,8 +139,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -161,8 +161,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -183,8 +183,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -205,8 +205,8 @@
           {
             "value": {
               "size": {
-                "min": 10,
-                "max": 10,
+                "min": 5,
+                "max": 5,
                 "type": "uniform"
               },
               "modifiers": [
@@ -245,7 +245,7 @@
                 "min": 10,
                 "max": 10,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -292,7 +292,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -448,7 +447,7 @@
                 "min": 5,
                 "max": 20,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -510,7 +509,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -668,7 +666,6 @@
         "level": 0,
         "pool": [
           {
-            
             "value": {
               "model": 6,
               "size": {
@@ -824,7 +821,7 @@
                 "min": 5,
                 "max": 20,
                 "type": "uniform"
-                },
+              },
               "model": 11,
               "modifiers": [
                 "the_vault:living",
@@ -886,7 +883,6 @@
         "level": 0,
         "pool": [
           {
-
             "value": {
               "model": 6,
               "size": {

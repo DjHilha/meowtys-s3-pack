@@ -462,7 +462,6 @@
       "modIds": [
         "create",
         "createaddition",
-        "copycats",
         "railways",
         "moreburners"
       ],
@@ -634,6 +633,23 @@
         "the_vault:gear/armor/meka_dark/leggings",
         "the_vault:gear/armor/meka_dark/boots"
       ]
+    },
+    {
+      "modIds": [
+        "creeperpower"
+      ],
+      "restrictions": {
+        "restricts": {
+          "HITTABILITY": false,
+          "BLOCK_INTERACTABILITY": false,
+          "USABILITY": false,
+          "CRAFTABILITY": true,
+          "ENTITY_INTERACTABILITY": false
+        }
+      },
+      "name": "Creeper Power",
+      "cost": 1,
+      "usesKnowledge": true
     }
   ],
   "CUSTOM_RESEARCHES": [
@@ -674,13 +690,13 @@
             "CRAFTABILITY": true
           }
         }
+      },
+      "blockRestrictions": {},
+      "entityRestrictions": {},
+      "name": "Iron Generators",
+      "cost": 1,
+      "usesKnowledge": true
     },
-    "blockRestrictions": {},
-    "entityRestrictions": {},
-    "name": "Iron Generators",
-    "cost": 1,
-    "usesKnowledge": true
-  },
     {
       "itemRestrictions": {
         "mekanism:formulaic_assemblicator": {
@@ -992,9 +1008,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
+          }
         }
-          
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1009,8 +1024,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1025,8 +1040,8 @@
             "HITTABILITY": true,
             "USABILITY": true,
             "CRAFTABILITY": true
-            }
           }
+        }
       },
       "blockRestrictions": {},
       "entityRestrictions": {},
@@ -1310,7 +1325,7 @@
       "name": "Industrial Mob Farm",
       "cost": 3,
       "usesKnowledge": true
-    },    
+    },
     {
       "itemRestrictions": {
         "botania:mana_fluxfield": {
