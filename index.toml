@@ -18,7 +18,7 @@ hash = "985d92173d708f0f479e923200ce4468e3a15fcac74107e5bcbd4f6e74b4ac32"
 
 [[files]]
 file = "config/Mekanism/client.toml"
-hash = "0e0c4f0eec8faf5c3f207d27f3ee53faecd513d6805d1e60b8eae9d2e8a0d4a5"
+hash = "58d446a60208a367520c16ea81357dd37acc611f670660647736afd5a9a84ce1"
 
 [[files]]
 file = "config/Mekanism/common.toml"
@@ -42,7 +42,11 @@ hash = "b3c50755f421aff5ba6b23a9b1aa8dddf9be0d200b363635134db3ee68e11338"
 
 [[files]]
 file = "config/Mekanism/generators.toml"
-hash = "45747d3295101b5c953e1de76a82c28fccb10a52f688d9552c875e3a6f1afb70"
+hash = "2b0c7a97f9809c06437081a90c1e857fa73153a89bfb0a656b08d59b50b234b6"
+
+[[files]]
+file = "config/Mekanism/generators.toml.orig"
+hash = "9e6956bc7745fc085cff4f96cfeda80fa6335adbb194b5149914eab6cb234446"
 
 [[files]]
 file = "config/Mekanism/machine-storage.toml"
@@ -66,11 +70,19 @@ hash = "611b9c06b577cb3cdc72c8b74a78b16b9a7b42832e1380a85107d086a8854fa8"
 
 [[files]]
 file = "config/TwitchSpawn/client_credentials.json"
-hash = "f1e6517098e141d16f747d120101b05cea74d2864ac554826dd570571b423f7a"
+hash = "9fd53857e5827b2735b3c061eabd5753b5b3beb6d6d9f00e85d3d8836eec8dd8"
+
+[[files]]
+file = "config/TwitchSpawn/client_credentials.json.orig"
+hash = "6067a0d8ce807840ebebb06ac292f7a2646ec1122686d73e770652d0704468b5"
 
 [[files]]
 file = "config/TwitchSpawn/credentials.toml"
-hash = "c2cb0577dbb20243cccb34dcdd0533f8b7df2b1cfb7aad2e0e145e45a983fb99"
+hash = "1806d972f12a522ead8d32f6d3592550a08527eef93ef0ba72a7c0b27148e169"
+
+[[files]]
+file = "config/TwitchSpawn/credentials.toml.orig"
+hash = "9b158eff514addd3b222ebc88f557901a4a9156a27cf887e8cb34d573d9a1953"
 
 [[files]]
 file = "config/TwitchSpawn/messages.subtitle.json"
@@ -85,10 +97,6 @@ file = "config/TwitchSpawn/preferences.toml"
 hash = "4a9de5cb573a2ac38674c7ba75eb025a5b8ba9b4cf4b039eac91efc74930a0e8"
 
 [[files]]
-file = "config/TwitchSpawn/rules.FozyDoe.tsl"
-hash = "f821355c48a788186c7fb4371fe573ddf0644db698c18b85394a0286115f2783"
-
-[[files]]
 file = "config/TwitchSpawn/rules.HalosiaPaage.tsl"
 hash = "c663718ffbf15d8ee199a87aa5ab218e00f7a4f340d1b4bb5f7d460506b422e7"
 
@@ -97,16 +105,16 @@ file = "config/TwitchSpawn/rules.Hilha.tsl"
 hash = "891bd7354864d64d000ede1070f6f16d01f6256e74145dc007fc906300dda9ee"
 
 [[files]]
+file = "config/TwitchSpawn/rules.Hilha.tsl.orig"
+hash = "84cda20e97dad91d40b08539279370a48fbec47d0d0566fc06683ea89f5734cb"
+
+[[files]]
 file = "config/TwitchSpawn/rules.Rhaw_G.tsl"
 hash = "8b29acd311f0139493d567ff819df4536e24e730d137c406225d81ae3d80126d"
 
 [[files]]
 file = "config/TwitchSpawn/rules.default.tsl"
 hash = "2ec73a9b31b3b346938cd4129b0aab33c1af61ea15e3f5fb1fab3cd6dda43849"
-
-[[files]]
-file = "config/TwitchSpawn/rules.server.tsl"
-hash = "a4eed38230d7497b73acc3b9a9e8d349278016e1e41ae7fc03479b8dbaca1765"
 
 [[files]]
 file = "config/TwitchSpawn/server_discord_conn.json"
@@ -194,7 +202,7 @@ hash = "71c84475ee61776ea75162c75f6a4c19329e0ae88226e67d122e65b8c7924cd9"
 
 [[files]]
 file = "config/camera-client.toml"
-hash = "cba25b9d0b465bc317e4c01b1a409fbede777bad0c0a3a4868bb488701a7d050"
+hash = "3d3d183c017784c0cabae8e40f84697e337941dacb2fe64baedc446452d77989"
 
 [[files]]
 file = "config/cfm-client.toml"
@@ -263,6 +271,10 @@ hash = "740c7ed4b212134c1574eaa4ef855d5b80e40ce0f8b6abfb623de5e736bd369d"
 [[files]]
 file = "config/createcafe-common.toml"
 hash = "86f6e8e30251a3a185ad3695c26998240df2c01c9cab5bc3cdc53dc554ae7252"
+
+[[files]]
+file = "config/creeperpower.json"
+hash = "6582ef31e6165995deb966e37555a4eed23972480c87e7d995257d3eacc733c0"
 
 [[files]]
 file = "config/cristellib/dumped_packs/pack.png"
@@ -366,7 +378,7 @@ hash = "b72f2ae563d83b1ae054df7527c8f3a532c68c057e67a53b51e76def36d9334b"
 
 [[files]]
 file = "config/everycomp-registry.toml"
-hash = "372d84a749d5f106f2c9292415b841da1d6afa078efadce51bcdb106fe1f32ce"
+hash = "5ccdcb253c9b1f4b461649a99e1b2f892ee7682effb70ca4a9f8d8a51f294291"
 
 [[files]]
 file = "config/fairylights-client.toml"
@@ -469,6 +481,14 @@ file = "config/furnish-common.toml"
 hash = "8da07beac080dee6487c5bee234c9f34754994d2e676fa25d792644f5d6d2113"
 
 [[files]]
+file = "config/gateways.json"
+hash = "bbb006838f361e3a1b9cc17df025fb37a0ccb11b36b2ac271843913df1327a58"
+
+[[files]]
+file = "config/godrenamer.json"
+hash = "028517a827ff961666813e5acacc07ed90921c4c84155a2345a0d2cb70102cca"
+
+[[files]]
 file = "config/great_scrollable_tooltips.conf"
 hash = "babed615f9d981f0f35656c713f92401603e4a14324f20d9a6e525877f03f948"
 
@@ -530,7 +550,7 @@ hash = "65e3bf7f4c2fae97dc16e5e7b04eef74b07b8a6801e4899bd2928ac2a7282cb9"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "7fde756234835ff9fea502a1660928d319af0c19e823d59285cd57907466c6c3"
+hash = "393e6039bc9c9d40be21c371270f943ee4a0bcdc72074e13b882faa58977c92d"
 
 [[files]]
 file = "config/jade/jade_plugins.json"
@@ -542,7 +562,7 @@ hash = "f3f154efc2fdf6ae5447072bfe4bae790e768e0b23df1a0ec955b875c2c82968"
 
 [[files]]
 file = "config/jei/ingredient-list-mod-sort-order.ini"
-hash = "59f377e8c07df2377bd65d307493941093e1044fd535ee38728e1743554c74ff"
+hash = "672c9d9bf093e7073062390606eb5f6cc38c2101bb19dd66702c6258b2815cee"
 
 [[files]]
 file = "config/jei/ingredient-list-type-sort-order.ini"
@@ -554,7 +574,7 @@ hash = "82d25ad2e57e63c06c7f8e14814991accd1fb3a8e2bf70d1a98b3b47471e93e6"
 
 [[files]]
 file = "config/jei/recipe-category-sort-order.ini"
-hash = "8587b9cf9269c753e18cd04a811b6b72ee98dab48220e2346173a0874f5cb776"
+hash = "0ce87e989e37a581d93f83e2dfc6fe0a3348439137966f86ed506134a4489771"
 
 [[files]]
 file = "config/jei/world/local/New_World__8/bookmarks.ini"
@@ -563,6 +583,10 @@ hash = "bd76597e5cd7191c6632e97c69286aefcdb9fdf5a92a4619e539f98763bab81c"
 [[files]]
 file = "config/jei/world/local/Palette_Testing_World_2/bookmarks.ini"
 hash = "b427f026b2821ac9d618ec2c7a8b81192924ad860cbd878d9a165c989830e600"
+
+[[files]]
+file = "config/jei/world/local/TEST/bookmarks.ini"
+hash = "ebf9b50de5eb0d024b6645ade7da201787b0c64424f97c18e3b05928db6ec66f"
 
 [[files]]
 file = "config/jei/world/local/Update_19_Dev_World/bookmarks.ini"
@@ -594,7 +618,7 @@ hash = "386b6372e6c7c783e89f72eab72f6ef185d1bd57bd9bd34c332d0d7eb6339353"
 
 [[files]]
 file = "config/jei/world/server/Meowty_s_SMP_S3_5413fd84/bookmarks.ini"
-hash = "47bea29faf32fe377c94d93e35abea88bb8475836677c6d4191073dbd45bc239"
+hash = "818208da34e5fe86758852a8dfb5e87eed5d7cb98091ad51b2bfe6f052df8ae4"
 
 [[files]]
 file = "config/jei/world/server/VH_Builders_70f11af9/bookmarks.ini"
@@ -730,7 +754,7 @@ hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
 
 [[files]]
 file = "config/oculus.properties"
-hash = "17f0373b94625d18359da6f5b47296b74706dedeab9b36bb9594e159bd667980"
+hash = "4c938828fa7fa0bf083ec7820a93005019fcd9d00f0cae0b30e88aa3f583fdf8"
 
 [[files]]
 file = "config/openloader/advanced_options.json"
@@ -842,7 +866,15 @@ hash = "bec37cb0afeda17ce5292e517316ccc87d01ea4c83f845adae178bcc23dafadc"
 
 [[files]]
 file = "config/powah.json5"
-hash = "d0846663186e4ca94478808a20a09216e95d8ff6bc59f022b03074a713cb1fb6"
+hash = "38820b6802bcd9afd7fff14a51de7998309d8d4e29fca86df7a4ef58802e61f9"
+
+[[files]]
+file = "config/qolhunters-client.toml"
+hash = "bbf5c09005758d345811649a33a97ee2afa196db16f42eb829608afe4d6ea3e5"
+
+[[files]]
+file = "config/qolhunters-skillAltarKeybinds.json"
+hash = "2c14d6faaf2ca058b3e114f5064b2cdd9e494f199992fe4aa93a51387283e3d5"
 
 [[files]]
 file = "config/quark-common.toml"
@@ -2775,6 +2807,10 @@ hash = "90d144011076e2459033ab69766cb8dd1f3e239faba1d8c50b473d5fbcd4a168"
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/horderush/base.json"
 hash = "c7839108ee7f238ed1d47022aea0ea9ac9bbc4d51af9a529abfd96f9e578e411"
+
+[[files]]
+file = "config/the_vault/gen/1.0/palettes/horderush/base.json.orig"
+hash = "e7a392ed1c16339cd73f9cac21dd2bd44bc86b00900d5274ef7d385f42741153"
 
 [[files]]
 file = "config/the_vault/gen/1.0/palettes/laboratory/base.json"
@@ -12885,6 +12921,10 @@ file = "config/the_vault/inscription.json"
 hash = "818c18bd5513fb625dc22d135daed5762f38bee941e366a5a80bdf96fff366ee"
 
 [[files]]
+file = "config/the_vault/iridium/vault_modifiers.json"
+hash = "83f621cf79fcce2b1f6de6827bb7b4c3e892141322f39af0fae44e6712de29bd"
+
+[[files]]
 file = "config/the_vault/item_groups.json"
 hash = "e7354c22e472194e40ad0f6c40db5d2ef5fd294e752a3823911161f4d4f33279"
 
@@ -13693,6 +13733,10 @@ file = "config/twigs-common.toml"
 hash = "5c4361ed317500edbe2951cf571d5f2b0528f010b9a2a47f684c4e7f49523202"
 
 [[files]]
+file = "config/twitchtaskmod/active_tasks.tsv"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
 file = "config/twitchtaskmod/backend.json"
 hash = "c7f307c7c5cb638de83be0793cdf6a0c6418eee99a149e99428947555c37ee22"
 
@@ -13723,6 +13767,10 @@ hash = "81a8613f64f387b25bcd3ac1499094f9535c6816af3838d7db5db7ec742cc6cd"
 [[files]]
 file = "config/twitchtaskmod/twitch_links.json"
 hash = "40736ef786ecd936bae310c27620e47a270de821352405feff85e4a9a2cee037"
+
+[[files]]
+file = "config/twitchtaskmod/viewer_vault_cache.tsv"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/vault_hunters_jewel_sorting.toml"
@@ -13846,7 +13894,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "f946322efcbef80ff3520f46f34da358662e9a0fdb8c3b8f6c4499835e697485"
+hash = "94a965697a7d050a7208bbf68bb48b13d173a4820921b744a7642c9b3c56c75b"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -13866,7 +13914,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "af7d9dcf300fb1184e5937bcc6d0fe476e367cbafb2d4ca62c850736ec10d14d"
+hash = "01c0421b71b662c1bf883cec83717fe8ecc24064aefe75bc212905d8f5044574"
 
 [[files]]
 file = "config/xnet-client.toml"
@@ -15673,10 +15721,6 @@ file = "mods/comforts-forge-1.18.2-5.0.0.6.jar"
 hash = "10da8248a7e9440a84394a4b78410ec6ab85d66f521cfc3f87849dfada3a65d7"
 
 [[files]]
-file = "mods/companioncodex-1.0.4.jar"
-hash = "edf46c0257f30fe89d916019b4573788d408a00c2727daa91e49967e37e703b8"
-
-[[files]]
 file = "mods/companioncodex-1.0.6.jar"
 hash = "e0d430e6746931514fbfc4b46ca46e7fc412978da57270f28a7e1c498f941c6c"
 
@@ -16434,7 +16478,7 @@ hash = "a24b8bcdbfadc078f7ff64827f6b220b98b6744ce911916bdbd5dc4e54669c91"
 
 [[files]]
 file = "scripts/00_remove_recipes.zs"
-hash = "595c6908e23833ca3df15a52b59889ed4b0e30a35871a61cfc06da56269c41f1"
+hash = "7ae3a791ff6332b9d71aedb9a8e4268fa35b63a265f64bc5564248818241415a"
 
 [[files]]
 file = "scripts/Backpacks.zs"

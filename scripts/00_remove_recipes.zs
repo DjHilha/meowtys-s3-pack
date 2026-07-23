@@ -1540,7 +1540,6 @@ JEI.hideIngredient(<item:the_vault:elite_stray_egg>);
 JEI.hideIngredient(<item:the_vault:elite_wither_skeleton_egg>);
 JEI.hideIngredient(<item:the_vault:elite_witch_egg>);
 JEI.hideIngredient(<item:the_vault:elite_zombie_egg>);
-JEI.hideIngredient(<item:the_vault:spirit_egg>);
 JEI.hideIngredient(<item:the_vault:t1_creeper_egg>);
 JEI.hideIngredient(<item:the_vault:t1_drowned_egg>);
 JEI.hideIngredient(<item:the_vault:t1_enderman_egg>);

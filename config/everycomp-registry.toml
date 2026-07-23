@@ -55,6 +55,7 @@
 
 	[wood_type.buildscape]
 		mangrove = true
+		poplar = true
 
 	[wood_type.regions_unexplored]
 		alpha = true
@@ -122,6 +123,9 @@
 		snowy_mangrove = true
 		snowy_azalea = true
 		snowy_flowering_azalea = true
+		orange_poplar = true
+		red_poplar = true
+		yellow_poplar = true
 
 	[leaves_type.regions_unexplored]
 		alpha = true
