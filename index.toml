@@ -15534,7 +15534,7 @@ hash = "a981e77d4825111d15b529400eac3c21f43b3a47ea12d82475a66cf919e52aa0"
 
 [[files]]
 file = "mods/MeowtysMod.jar"
-hash = "4874dc264fcd23798f2c3a1aa0e4eef2982cfa17f80f0a1753ec021970a7dde5"
+hash = "3536a375d9003ac0c24d1fdb74a6a5ef0b30b4d2cff2e34c88c635daa695e19f"
 
 [[files]]
 file = "mods/MmmMmmMmmMmm-1.18.2-1.5.2.jar"
@@ -16049,8 +16049,8 @@ file = "mods/tectonic-forge-1.18-2.3.5a.jar"
 hash = "85817cdaa0fbac6db2484337a947129eeb26c2e6700909ea4862037982699973"
 
 [[files]]
-file = "mods/the_vault-1.18.2-20.0.0-remastered.6864.jar"
-hash = "b8670ccf741c4da23e50d3643412869e5792d5b4747fe52a5da74d41127896e1"
+file = "mods/the_vault-1.18.2-20.0.0-remastered.6870.jar"
+hash = "f3222e92170aac531961e08ef5c40c4f516011f2adc9b555c226d1ed912b32a7"
 
 [[files]]
 file = "mods/thermal_dynamics-1.18.2-9.2.2.19.jar"
