@@ -2,6 +2,7 @@
   "enabled": true,
   "backendUrl": "https://extension-be.onrender.com",
   "apiKey": "themeowtysextensionapikey",
+  "serverId": "meowtys_s3",
   "pollTrails": true,
   "trailCommandTemplate": "the_vault give trail {player} {color}"
 }
