@@ -15629,8 +15629,8 @@ file = "mods/TerraBlender-forge-1.18.2-1.2.0.126.jar"
 hash = "77efe21003e4968460652dda1454f4777ca0a5c77fe84d698259cf4472dafa04"
 
 [[files]]
-file = "mods/VaultLootBeams-1.18.2-1.0.1.jar"
-hash = "ee8f4042e08422127413fe6105f4498d0dfebf5410e610ce4c2669cb766d9be9"
+file = "mods/VaultLootBeams-1.18.2-1.0.2.jar"
+hash = "c7d86f25d8e1ab191f7c1707ec09fd4fb854e88101c1a34f8295d9b169e1efa4"
 
 [[files]]
 file = "mods/Waddles-1.18.2-0.8.19.jar"
@@ -15707,6 +15707,10 @@ hash = "f521b4d5eb12f02456f810023532352a0cf74d13e0bcfc6e8ed2b2990a5876c1"
 [[files]]
 file = "mods/cfm-7.0.0-pre35-1.18.2.jar"
 hash = "48d55a12e01d5d2de970b4be4f3eea188202f8a95058c8bb47b50f12d61661b2"
+
+[[files]]
+file = "mods/chestmonster-1.18.2-1.0.0.jar"
+hash = "829245bc52a10b3857babcf5f7970c3c05a06b7bec7103995f550a92e86e34ad"
 
 [[files]]
 file = "mods/citadel-1.11.3-1.18.2.jar"
